@@ -1,0 +1,21 @@
+
+
+.header {
+    background-color: #29a3ef;
+    padding: 20px;
+    color: white;
+}
+.close-btn {
+    color: red;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.btn-suspend {
+            background-color: #dc3545;
+            color: white;
+        }
+        .btn-suspend:hover {
+            background-color: #c82333;
+            color: white;
+        }

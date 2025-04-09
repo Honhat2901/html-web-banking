@@ -1,0 +1,15 @@
+
+        body {
+            background-color: #fff;
+        }
+        .header {
+            background-color: #2196f3;
+            color: white;
+            padding: 20px;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .form-section {
+            padding: 40px;
+        }
+   

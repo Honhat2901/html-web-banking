@@ -1,0 +1,40 @@
+body {
+    background-color: #fff;
+}
+
+.container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.header {
+    background-color: #2196f3;
+    color: white;
+    padding: 20px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.form-section {
+    padding: 40px;
+}
+
+.custom-header {
+    background-color: chartreuse;
+    color: #fff;
+}
+
+table thead tr th {
+    background-color: #00b300 !important;
+    color: #fff !important;
+    text-align: center;
+}
+
+.td-action{
+    display: flex;
+    justify-content: space-between;
+}
+
+.balance-number{
+    text-align: right;
+}

@@ -1,0 +1,24 @@
+body {
+    background-color: #fff;
+}
+
+.header {
+    background-color: #2196f3;
+    color: white;
+    padding: 20px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.form-section {
+    padding: 40px;
+}
+
+.error-alert {
+    background-color: #f8d7da;
+    color: #721c24;
+    border-top: 1px solid #f5c6cb;
+    width: 100%;
+    z-index: 1050;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
